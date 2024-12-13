@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label><!-- No of Listings --></label>
-    <name>No_of_Listings__c</name>
-    <picklistValues>
-        <masterLabel>Noun</masterLabel>
-        <translation><!-- Noun --></translation>
-    </picklistValues>
-</CustomFieldTranslation>

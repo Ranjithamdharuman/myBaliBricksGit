@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <label><!-- Leasehold Landlord(If Any) --></label>
-    <name>Leasehold_Landlord_If_Any__c</name>
-    <picklistValues>
-        <masterLabel>Noun</masterLabel>
-        <translation><!-- Noun --></translation>
-    </picklistValues>
-</CustomFieldTranslation>
