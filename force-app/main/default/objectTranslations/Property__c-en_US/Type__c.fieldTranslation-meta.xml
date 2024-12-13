@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Type --></label>
+    <name>Type__c</name>
+    <picklistValues>
+        <masterLabel>F&amp;B</masterLabel>
+        <translation><!-- F&amp;B --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Hotel</masterLabel>
+        <translation><!-- Hotel --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Industrial</masterLabel>
+        <translation><!-- Industrial --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Leisure</masterLabel>
+        <translation><!-- Leisure --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Office</masterLabel>
+        <translation><!-- Office --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Shop</masterLabel>
+        <translation><!-- Shop --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

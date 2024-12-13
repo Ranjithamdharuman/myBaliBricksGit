@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Sales person only</description>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Bali Sales</label>
+    <permissionSets>Account_Full_Access</permissionSets>
+    <permissionSets>Contact_Full_Access</permissionSets>
+    <permissionSets>Land_Full_Access</permissionSets>
+    <permissionSets>Lead_Full_Access</permissionSets>
+    <permissionSets>Location_Full_Access</permissionSets>
+    <permissionSets>Opportunity_Full_Access</permissionSets>
+    <permissionSets>Property_Full_Access</permissionSets>
+    <status>Updated</status>
+</PermissionSetGroup>
